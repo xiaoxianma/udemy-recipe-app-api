@@ -3,6 +3,7 @@ ignore =
   E121,E123,E126,E226,E24,E704,W503,W504,  # these are ignored by default
   W292,W391,
   E501,
+  F401,
 exclude =
   migrations
   __pycache__,
